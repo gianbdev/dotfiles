@@ -1,4 +1,4 @@
-
+# .bashrc
 case $- in
     *i*) ;;
       *) return;;
