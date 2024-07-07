@@ -1,4 +1,4 @@
-# .bashrc
+# .bashrc configs
 case $- in
     *i*) ;;
       *) return;;
