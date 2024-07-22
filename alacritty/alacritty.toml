@@ -14,7 +14,7 @@ TERM = "xterm-256color"
 # Tamaño de la fuente
 #normal.family = "MesloLGS Nerd Font Mono"
 #normal.family = "HackNerdFont"
-normal.family = "Consolas"
+normal.family = "Menlo"
 
 size = 16
 
@@ -32,4 +32,3 @@ decorations = "none"
 #option_as_alt = "Both"
 
 startup_mode = "Maximized"
-
